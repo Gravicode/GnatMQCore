@@ -22,12 +22,12 @@ namespace MqttClientTest
             string clientId = Guid.NewGuid().ToString();
             client.Connect(clientId);
 
-            // subscribe to the topic "/home/temperature" with QoS 2
-            client.Subscribe(new string[] { "/home/temperature" }, new byte[] { MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE });
+            // subscribe to the topic "/sample/test" with QoS 2
+            client.Subscribe(new string[] { "/sample/test" }, new byte[] { MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE });
             int count = 0;
             while (true)
             {
-                client.Publish("/home/temperature", Encoding.UTF8.GetBytes($"kirim {count++}"), MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE,false); 
+                client.Publish("/sample/test", Encoding.UTF8.GetBytes($"kirim {count++}"), MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE,false); 
  
                 Thread.Sleep(100);
 
