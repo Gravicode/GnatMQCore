@@ -1,0 +1,7 @@
+E:\Experiment\GnatMQ.Core\GnatMQ.Core\bin\Debug\netstandard1.4\GnatMQ.Core.deps.json
+E:\Experiment\GnatMQ.Core\GnatMQ.Core\obj\Debug\netstandard1.4\GnatMQ.Core.csprojResolveAssemblyReference.cache
+E:\Experiment\GnatMQ.Core\GnatMQ.Core\obj\Debug\netstandard1.4\GnatMQ.Core.AssemblyInfo.cs
+E:\Experiment\GnatMQ.Core\GnatMQ.Core\bin\Debug\netstandard1.4\GnatMQ.Core.dll
+E:\Experiment\GnatMQ.Core\GnatMQ.Core\bin\Debug\netstandard1.4\GnatMQ.Core.pdb
+E:\Experiment\GnatMQ.Core\GnatMQ.Core\obj\Debug\netstandard1.4\GnatMQ.Core.dll
+E:\Experiment\GnatMQ.Core\GnatMQ.Core\obj\Debug\netstandard1.4\GnatMQ.Core.pdb
