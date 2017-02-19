@@ -1,0 +1,8 @@
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\bin\Debug\MqttClientTest.exe.config
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\bin\Debug\MqttClientTest.exe
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\bin\Debug\MqttClientTest.pdb
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\bin\Debug\M2Mqtt.Net.dll
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\bin\Debug\M2Mqtt.Net.pdb
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\obj\Debug\MqttClientTest.csprojResolveAssemblyReference.cache
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\obj\Debug\MqttClientTest.exe
+E:\Experiment\GnatMQCore\GnatMQ.Core\MqttClientTest\obj\Debug\MqttClientTest.pdb
