@@ -24,10 +24,8 @@ using uPLibrary.Networking.M2Mqtt.Managers;
 using uPLibrary.Networking.M2Mqtt.Communication;
 using uPLibrary.Networking.M2Mqtt.Session;
 using System.Security.Cryptography.X509Certificates;
-using System.Net.Security;
 #if SSL
 #if !(WINDOWS_APP || WINDOWS_PHONE_APP)
-using System.Security.Cryptography.X509Certificates;
 using System.Net.Security;
 #elif (MF_FRAMEWORK_VERSION_V4_2 || MF_FRAMEWORK_VERSION_V4_3)
 using Microsoft.SPOT.Net.Security;
