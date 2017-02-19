@@ -7082,10 +7082,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "E:\\Experiment\\GnatMQ.Core\\GnatMQServerCore\\GnatMQServerCore.csproj",
+      "projectUniqueName": "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQServerCore\\GnatMQServerCore.csproj",
       "projectName": "GnatMQServerCore",
-      "projectPath": "E:\\Experiment\\GnatMQ.Core\\GnatMQServerCore\\GnatMQServerCore.csproj",
-      "outputPath": "E:\\Experiment\\GnatMQ.Core\\GnatMQServerCore\\obj\\",
+      "projectPath": "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQServerCore\\GnatMQServerCore.csproj",
+      "outputPath": "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQServerCore\\obj\\",
       "outputType": "NETCore",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
@@ -7093,8 +7093,8 @@
       "frameworks": {
         "netcoreapp1.0": {
           "projectReferences": {
-            "E:\\Experiment\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj": {
-              "projectPath": "E:\\Experiment\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj"
+            "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj": {
+              "projectPath": "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj"
             }
           }
         }

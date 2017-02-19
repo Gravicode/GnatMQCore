@@ -9,3 +9,14 @@ E:\Experiment\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerC
 E:\Experiment\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerCore.AssemblyInfo.cs
 E:\Experiment\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerCore.dll
 E:\Experiment\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerCore.pdb
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\bin\Debug\netcoreapp1.0\GnatMQServerCore.deps.json
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\bin\Debug\netcoreapp1.0\GnatMQServerCore.runtimeconfig.json
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\bin\Debug\netcoreapp1.0\GnatMQServerCore.runtimeconfig.dev.json
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\bin\Debug\netcoreapp1.0\GnatMQServerCore.dll
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\bin\Debug\netcoreapp1.0\GnatMQServerCore.pdb
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\bin\Debug\netcoreapp1.0\GnatMQ.Core.dll
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\bin\Debug\netcoreapp1.0\GnatMQ.Core.pdb
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerCore.csprojResolveAssemblyReference.cache
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerCore.AssemblyInfo.cs
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerCore.dll
+E:\Experiment\GnatMQCore\GnatMQ.Core\GnatMQServerCore\obj\Debug\netcoreapp1.0\GnatMQServerCore.pdb

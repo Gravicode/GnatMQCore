@@ -4191,10 +4191,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "E:\\Experiment\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj",
+      "projectUniqueName": "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj",
       "projectName": "GnatMQ.Core",
-      "projectPath": "E:\\Experiment\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj",
-      "outputPath": "E:\\Experiment\\GnatMQ.Core\\GnatMQ.Core\\obj\\",
+      "projectPath": "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQ.Core\\GnatMQ.Core.csproj",
+      "outputPath": "E:\\Experiment\\GnatMQCore\\GnatMQ.Core\\GnatMQ.Core\\obj\\",
       "outputType": "NETCore",
       "originalTargetFrameworks": [
         "netstandard1.4"
